@@ -1,3 +1,5 @@
+IMPORTANT: This project was made during the academic year 2020-2021 during my 3rd year of my Bachelor's in France. So everything will be in French.
+
 # PROJET-JAVA-ING1-GMI1-GROUPE7
 
 --------------------------COMMENT EXECUTER LE FICHIER--------------------------
